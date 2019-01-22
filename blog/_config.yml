@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: arunptp@github.io
-baseurl: "/blog"
+baseurl: "/blog/"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/

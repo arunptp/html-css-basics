@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: arunptp@github.io
 baseurl: "/blog"
 paginate: 12
 paginate_path: "/page/:num"

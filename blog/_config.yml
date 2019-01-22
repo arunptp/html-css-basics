@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: okay@samesies.io
 baseurl: "/blog"
-production_url : http://arunptp.github.io.com/blog
+production_url : http://arunptp.github.io/blog
 BASE_PATH : http://arunptp.github.io/blog
 paginate: 12
 paginate_path: "/page/:num"
